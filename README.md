@@ -4,7 +4,8 @@
 <img src="https://github.com/abhisheksince2000/Weather-Forecast-Using-API-key/edit/main/Screenshot 2024-06-29 204656">
 
 The API provider: http://www.OpenWeatherMap.org
-
+## Live preview
+ https://abhisheksince2000.github.io/Weather-Forecast-Using-API-key/
 
 
 
